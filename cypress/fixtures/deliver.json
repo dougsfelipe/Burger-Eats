@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Douglas Santos",
+        "cpf": "70292029954",
+        "email": "douglas@douglas.douglas",
+        "whatsapp": "81986383218",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "1000",
+            "complemento": "Perto da rua",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "nome": "Douglas Santos",
+        "cpf": "70292029954",
+        "email": "douglas.douglas",
+        "whatsapp": "81986383218",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "1000",
+            "complemento": "Perto da rua",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "Maria Julia",
+        "cpf": "x70292029954",
+        "email": "douglas@douglas.douglas",
+        "whatsapp": "81986383218",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "1000",
+            "complemento": "Perto da rua",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
